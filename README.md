@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- هدر پروفایل -->
-  <img src="https://github.com/msh-org/msh-org/blob/main/header.jpg?raw=true" alt="Milad Shiralinezhad Banner" width="100%" />
+  <!-- هدر پروفایل (با آدرس نسبی برای لود تضمینی) -->
+  <img src="header.jpg" alt="Milad Shiralinezhad Banner" width="100%" />
 
   <br/><br/>
 
@@ -44,29 +44,25 @@
         <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,html,css,js,bootstrap,jquery&perline=4&theme=dark" alt="Tech Stack" />
       </p>
     </td>
-    <!-- ستون راست: آمار گیت‌هاب -->
+    <!-- ستون راست: آمار گیت‌هاب (با سرورهای پایدار بدون محدودیت) -->
     <td width="55%" valign="top">
       <h3 align="left">📈 GITHUB STATS</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=msh-org&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&icon_color=38ef7d&border_color=1f6feb&border_radius=10" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=msh-org&show_icons=true&count_private=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&icon_color=38ef7d&border_color=1f6feb&border_radius=10" width="100%" alt="GitHub Stats" />
       </p>
       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=msh-org&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&ring=00f2fe&fire=38ef7d&currStreakLabel=00f2fe&border=1f6feb&border_radius=10" width="100%" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=msh-org&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&ring=00f2fe&fire=38ef7d&currStreakLabel=00f2fe&border=1f6feb&border_radius=10" width="100%" alt="GitHub Streak" />
       </p>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msh-org&layout=donut&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&border_color=1f6feb&border_radius=10" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=msh-org&layout=compact&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&border_color=1f6feb&border_radius=10" width="100%" alt="Top Languages" />
       </p>
     </td>
   </tr>
 </table>
 
-<!-- نمودار فعالیت نئونی و شمارنده بازدید دیجیتالی -->
+<!-- نمودار فعالیت و شمارنده بازدید رسمی -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msh-org&bg_color=0d1117&color=00f2fe&line=38ef7d&point=ffffff&area=true&border_color=1f6feb&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msh-org&theme=github_dark" width="100%" alt="Activity Graph" />
   <br/><br/>
-  <img src="https://count.getloli.com/@msh-org?name=msh-org&theme=moebooru&padding=6&offset=0&align=top&scale=0.8&pixelated=1&darkmode=1" alt="Digital Visitor Counter" />
-  <br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=msh-org&label=Profile%20Views&color=12&icon=0&pretty=true" alt="Visitor Counter"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=msh-org&label=PROFILE%20VIEWS&color=00f2fe&style=for-the-badge" alt="Profile Views" />
 </div>
