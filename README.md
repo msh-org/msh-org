@@ -9,12 +9,12 @@
   <h1>Hi, I'm Milad Shiralinezhad 👋</h1>
 
   <a href="https://github.com/msh-org">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Full-stack+Developer+%7C+%F0%9F%93%8A+Software+Project+Manager;Crafting+Modern+Web+Applications;Managing+Agile+Software+Projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=680&lines=%F0%9F%92%BB+Full-Stack+Developer+%7C+%F0%9F%93%8A+Software+Project+Manager;%E2%9A%99%EF%B8%8F+ASP.NET+Core+%26+MVC+%7C+Python+%26+Django+%7C+React;%F0%9F%9B%A1%EF%B8%8F+DevSecOps+%7C+SQL+Server+%7C+Enterprise+Architecture" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    Passionate about crafting modern web applications, managing agile software projects,<br/>
-    and continuously learning & exploring new technologies.
+    Passionate about architecting secure enterprise web applications (<b>ASP.NET Core</b> & <b>Django</b>),<br/>
+    crafting modern UIs (<b>React</b>), managing agile software projects, and streamlining <b>DevSecOps</b> workflows.
   </p>
 
 </div>
@@ -35,34 +35,4 @@
           <img src="https://img.shields.io/badge/Instagram-@msh__org-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
         </a>
         <a href="https://linkedin.com/in/miladshiralinezhad" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Milad_Shiralinezhad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
-        </a>
-      </p>
-      <br/>
-      <h3 align="left">🧰 TECH STACK</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,html,css,js,bootstrap,jquery&perline=4&theme=dark" alt="Tech Stack" />
-      </p>
-    </td>
-    <!-- ستون راست: آمار گیت‌هاب (تیره و بدون خطای توکن) -->
-    <td width="55%" valign="top">
-      <h3 align="left">📈 GITHUB STATS</h3>
-      <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msh-org&theme=github_dark" width="100%" alt="GitHub Stats" />
-      </p>
-      <p align="center">
-        <img src="https://streak-stats.demolab.com?user=msh-org&theme=github-dark-blue&background=0D1117&border=1F6FEB&border_radius=10&ring=00F2FE&fire=38EF7D&currStreakLabel=00F2FE" width="100%" alt="GitHub Streak" />
-      </p>
-      <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msh-org&theme=github_dark" width="100%" alt="Top Languages" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- نمودار فعالیت و شمارنده بازدید -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msh-org&theme=github_dark" width="100%" alt="Activity Graph" />
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=msh-org&label=PROFILE%20VIEWS&color=00f2fe&style=for-the-badge" alt="Profile Views" />
-</div>
+          <img src="
