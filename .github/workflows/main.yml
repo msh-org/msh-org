@@ -18,6 +18,7 @@ jobs:
           user: ${{ github.repository_owner }}
           template: classic
           base: header, activity, community, repositories, metadata
+          repositories_affiliations: owner, collaborator, organization_member
           config_timezone: Asia/Tehran
           plugin_isocalendar: yes
           plugin_languages: yes
